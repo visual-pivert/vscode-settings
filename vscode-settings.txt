@@ -1,0 +1,29 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "editor.fontLigatures": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.tabSize": 5,
+    "editor.fontFamily": "\"Cascadia Code\"",
+    "editor.fontSize": 16,
+    "emmet.preferences": {
+
+    
+    },
+    "emmet.includeLanguages": {
+        "php": "html"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.wordWrap": "on",
+    "workbench.tree.indent": 20,
+    "editor.acceptSuggestionOnEnter": "off", 
+    "editor.acceptSuggestionOnCommitCharacter": "off",
+}
